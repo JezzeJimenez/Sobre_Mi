@@ -1,6 +1,6 @@
 # Sobre_Mi #
 
-Hola, Soy Jezze Jimenez.
+ ## Hola, Soy Jezze Jimenez. ##
 Soy aprendiz de Analisis y Desarrollo de software, 
 Cursando tercer Trimestre.
 
