@@ -4,7 +4,7 @@
 Soy aprendiz de Analisis y Desarrollo de software, 
 Cursando tercer Trimestre.
 
-##Mis Intereses##
+Mis Intereses
 
 Me gustan los video juegos.
 
