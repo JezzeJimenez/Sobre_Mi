@@ -1,16 +1,18 @@
-# Sobre_Mi #
+# 👋 ¡Hola, soy Jezze Jimenez!
 
- ## Hola, Soy Jezze Jimenez. ##
-Soy aprendiz de Analisis y Desarrollo de software, 
-Cursando tercer Trimestre.
+Soy aprendiz de **Análisis y Desarrollo de Software (ADSO)** en el SENA, actualmente cursando el tercer trimestre. Me apasiona la tecnología y estoy dando mis primeros pasos en el mundo del desarrollo.
 
-Mis Intereses
+---
 
-Me gustan los video juegos.
+### 🚀 Sobre mí
+* 💻 **Estudiando:** ADSO (Trimestre 3) - SENA.
+* 🎯 **Objetivo:** Aprender a programar y crear soluciones tecnológicas eficientes.
+* 📚 **Intereses:** La tecnología, la lectura, los videojuegos y el deporte.
 
-Me gusta leer.
+### 🛠️ ¿Qué estoy aprendiendo?
+* Fundamentos de programación y lógica.
+* Primeros pasos en desarrollo web (HTML y CSS).
+* Control de versiones con Git y GitHub.
 
-Me gusta el deporte.
-
-## ¿Qué espero aprender en este curso? ##
-Espero aprender y crecer profesionalmente en mi carrera.
+### 📫 ¿Cómo contactarme?
+* GitHub: [@JezzeJimenez]([https://github.com/JezzeJimenez](https://github.com/JezzeJimenez?tab=repositories)
